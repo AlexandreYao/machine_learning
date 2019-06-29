@@ -1,2 +1,2 @@
-# machineLeaning
+# machineLearning
 All about machine learning models
